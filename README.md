@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/600x350/151515/ffffff?text=insert+nodo+interface+screenshot+here" width="600" />
+<img src="nodo-preview.png" width="600" />
 
 <br><br>
 
