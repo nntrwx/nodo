@@ -1,3 +1,45 @@
+<div align="center">
+
+<img src="https://via.placeholder.com/600x350/151515/ffffff?text=insert+nodo+interface+screenshot+here" width="600" />
+
+<br><br>
+
+# ⋆ ˚｡⋆ [ n o d o ] ⋆｡˚ ⋆
+
+*minimalist desktop messaging client* `clean ui` ⋆ `custom themes` ⋆ `wpf architecture`
+
+<br>
+
+### 🪷 ａｂｏｕｔ ｐｒｏｊｅｃｔ
+nodo is a beautifully crafted desktop messaging application. 
+built with a strong focus on aesthetics and user experience, 
+it offers a distraction-free environment for communication.
+
+<br>
+
+### 🎧 ｍｙ ｒｏｌｅ
+**ui / ux designer & front-end implementer**
+⋆ designed the complete user interface from scratch in figma.
+⋆ implemented complex layouts, custom controls, and animations using wpf (xaml).
+⋆ developed a custom color-theming system based on tea aesthetics.
+
+<br>
+
+### 💿 ｔｅｃｈ ｓｔａｃｋ
+
+<img src="https://img.shields.io/badge/c%23-151515?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/wpf-151515?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-151515?style=for-the-badge&logo=figma&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/.net-151515?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-151515?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br><br>
+</div>
+
+---
+
+
 ## ⚙️ Getting Started
 
 ### Prerequisites
