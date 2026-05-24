@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="nodo-preview.png" width="600" />
+<img src="nodo-preview.png" width="1920" />
 
 <br><br>
 
